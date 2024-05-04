@@ -15,4 +15,4 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Snake animation](https://github.com/fernandogabriel04/fernandogabriel04/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/fernandogabriel04/fernandogabriel04/blob/output/github-snake.svg)
