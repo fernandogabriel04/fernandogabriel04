@@ -3,9 +3,10 @@
 [![Blog](https://img.shields.io/website?label=portfoliogbtech.netflify.app&style=for-the-badge&url=https://portfoliogbtech.netlify.app)](https://portfoliogbtech.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fernandogabriel004)
 
-![Fernando Gabriel GitHub status](https://github-readme-stats.vercel.app/api?username=fernandogabriel04&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogabriel04&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandogabriel04&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogabriel04&layout=donut"/>
+</div>
 ## Tecnologias que mais estou utilizando no momento
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
